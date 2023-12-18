@@ -1,4 +1,8 @@
-# CustomerConversionPrediction
+# CustomerConversionPrediction: Develop a robust predictive model that analyzes historical customer data to forecast the likelihood of conversion for potential clients. By identifying key features and patterns in customer behavior, the model will enable the insurance company to focus resources on prospects with a higher probability of conversion, ultimately optimizing marketing strategies and improving overall conversion rates.
+
+
+
+
 ### Software and Tools Required
 
 1. [Github Account](https://github.com)
